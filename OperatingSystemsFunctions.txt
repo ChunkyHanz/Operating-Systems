@@ -5,3 +5,7 @@ then loads configuration information, verifies the user and loads the user inter
 
 Graphical User Interface(GUI): Allows you to interact with the device using menus and visual images. This is usually done via touching, pointing, tapping or clicking. The 
 GUI is loaded as soon as the device is finished with the start up function. Most modern devices come with a customizable GUI.
+
+Manages Programs: Single tasking operating systems allow only one program to be running at a time while multitasking opertating systems allow multiple programms to be run
+at the same time. When multitasking, the program that is currently being used is in the foreground while the other programs are in the background. Some operating systems
+allow multiple users to run programs at the same time. Manages the download and insallation of new programs as well as updates for existing ones.
