@@ -2,3 +2,6 @@ Starting the device: When the power button is pressed an electrical current is s
 resets itself and finds the firmware which contains the start up instructions. A series of tests is run to check all the components of the device and to check that all 
 peripheral devices are properly plugged in. If the tests are successful then the device will load the kernal which is the core of any operating system. The operating system
 then loads configuration information, verifies the user and loads the user interface.
+
+Graphical User Interface(GUI): Allows you to interact with the device using menus and visual images. This is usually done via touching, pointing, tapping or clicking. The 
+GUI is loaded as soon as the device is finished with the start up function. Most modern devices come with a customizable GUI.
